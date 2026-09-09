@@ -4,3 +4,4 @@
 - Giovanni Santos Scalabrin (RA 281210): gsscala
 - Rodrigo Banin Ferraz de Camargo (RA 238257): rbfcdog
 - Lucca Maso Miranda (RA 281827): LuccaMaso
+- Leandro Marcos Checchio de Souza (RA 244784): leanchec
